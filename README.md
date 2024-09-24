@@ -1,4 +1,4 @@
-https://amrutheshsharoff.github.io/Lift_Simulator-v2/
+https://AmrutheshSG.github.io/Lift_Simulator-v2/
 
 # Lift_Simulator-v2
  A web app that allows you to simulate lift mechanics.
